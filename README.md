@@ -1,7 +1,7 @@
 # FastAPI
 
 ### Descrição
-Este foi um projeto já existente, o qual realizei um fork e então conclui os desafios propostos ao final desse README. Caso queira ver o projeto original, ele se encontra em [Flex Grid]([http://exemplo.com/](https://github.com/digitalinnovationone/workout_api))
+Este foi um projeto já existente, o qual realizei um fork e então conclui os desafios propostos ao final desse README. Caso queira ver o projeto original, ele se encontra em [Flex Grid(https://github.com/digitalinnovationone/workout_api))
 
 ### Quem é o FastAPi?
 Framework FastAPI, alta performance, fácil de aprender, fácil de codar, pronto para produção.
